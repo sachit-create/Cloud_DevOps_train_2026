@@ -4,6 +4,8 @@
 - Apache maven
 - Gradle
 - Gitlab
-- Github
+- Github /
 - Aws
 - Mobaxtern(for ubuntu)
+- Docker
+- Docker Hub
