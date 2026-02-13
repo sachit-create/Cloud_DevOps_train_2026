@@ -9,3 +9,4 @@
 - Mobaxtern(for ubuntu)
 - Docker
 - Docker Hub
+- Propogation dns
