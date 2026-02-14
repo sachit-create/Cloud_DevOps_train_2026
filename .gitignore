@@ -1,3 +1,5 @@
 .vscode
 .gitignore
 .idea
+./Projects/Node_project/node_modules
+./Projects/Node_project/package.json
