@@ -1,5 +1,5 @@
 ## Tools And References
-Last Updated: February 15, 2026
+Last Updated: February 22, 2026
 
 ### Build And Framework
 - `Spring.io` - Java framework ecosystem and project bootstrap.
@@ -11,6 +11,12 @@ Last Updated: February 15, 2026
 - `Gradle` - Build automation tool (alternative to Maven).
   URL: https://gradle.org/
   Verify: `gradle -v`
+- `Node.js` - JavaScript runtime for backend and tooling.
+  URL: https://nodejs.org/
+  Verify: `node -v`
+- `Python` - Runtime used for scripting and app development.
+  URL: https://www.python.org/
+  Verify: `python3 --version`
 
 ### Version Control And CI
 - `GitLab` - Source hosting, CI/CD pipelines, merge requests.
@@ -19,6 +25,12 @@ Last Updated: February 15, 2026
 - `GitHub` - Source hosting, collaboration, actions.
   URL: https://github.com/
   Verify: `git --version`
+- `Jenkins` - CI/CD automation server for build and deployment pipelines.
+  URL: https://www.jenkins.io/
+  Verify: Open Jenkins UI and check build status.
+- `GitHub Actions` - CI/CD workflows integrated with GitHub repositories.
+  URL: https://docs.github.com/actions
+  Verify: Open repo `Actions` tab and confirm workflow runs.
 
 ### Cloud And Networking
 - `AWS` - Cloud services (EC2, S3, IAM, RDS, etc.).
@@ -35,6 +47,12 @@ Last Updated: February 15, 2026
 - `Docker Hub` - Container image registry.
   URL: https://hub.docker.com/
   Verify: `docker login`
+- `Kubernetes` - Container orchestration platform.
+  URL: https://kubernetes.io/
+  Verify: `kubectl version --client`
+- `Terraform` - Infrastructure as Code provisioning tool.
+  URL: https://developer.hashicorp.com/terraform
+  Verify: `terraform -version`
 - `MobaXterm` - Terminal and remote access client.
   URL: https://mobaxterm.mobatek.net/
   Verify: Launch app and test SSH connection.
@@ -44,6 +62,7 @@ Last Updated: February 15, 2026
 - `GitLab`: https://gitlab.com/
 - `AWS Console`: https://aws.amazon.com/console/
 - `Docker Hub`: https://hub.docker.com/
+- `Jenkins`: http://localhost:8080/ (or your server URL)
 
 ### Common Errors
 - `docker: Cannot connect to the Docker daemon`
@@ -52,5 +71,9 @@ Last Updated: February 15, 2026
   Fix: Install Maven and add it to `PATH`, then run `mvn -v`.
 - `aws: command not found`
   Fix: Install AWS CLI and verify with `aws --version`.
+- `kubectl: command not found`
+  Fix: Install kubectl and verify with `kubectl version --client`.
+- `terraform: command not found`
+  Fix: Install Terraform and confirm with `terraform -version`.
 - `Permission denied (publickey)` during SSH
   Fix: Add correct SSH key and verify with `ssh -T git@github.com`.
