@@ -1,5 +1,5 @@
 ## Tools And References
-Last Updated: February 22, 2026
+Last Updated: February 24, 2026
 
 ### Build And Framework
 - `Spring.io` - Java framework ecosystem and project bootstrap.
@@ -56,6 +56,17 @@ Last Updated: February 22, 2026
 - `MobaXterm` - Terminal and remote access client.
   URL: https://mobaxterm.mobatek.net/
   Verify: Launch app and test SSH connection.
+
+### Training Workflow Utilities
+- `Markdown` - Primary format for day-wise notes and summaries.
+  URL: https://www.markdownguide.org/
+  Verify: Open `Daily_Notes/*/notes.md` or `work.md` files and confirm readable structure.
+- `Jenkinsfile (Pipeline Syntax)` - CI/CD pipeline-as-code for Jenkins practice days.
+  URL: https://www.jenkins.io/doc/book/pipeline/syntax/
+  Verify: Open local `Jenkinsfile` and confirm stage structure (Checkout/Build/Test/Deploy).
+- `Git` - Day-wise progress commits and branch-based practice tracking.
+  URL: https://git-scm.com/doc
+  Verify: `git --version`
 
 ### Quick Access Accounts
 - `GitHub`: https://github.com/

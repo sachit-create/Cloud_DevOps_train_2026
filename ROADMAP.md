@@ -1,31 +1,34 @@
 # CandDevOps Training Roadmap
-Last Updated: February 15, 2026
+Last Updated: February 24, 2026
 
 ## Current Position
-- Training progress is organized up to `Day_16`.
-- `Daily_Notes` has consistent naming and structure for Week 1 to Week 3.
-- Notes are standardized to `notes.md` (commands merged into notes).
-- Admin references are structured (`tools.md`, `Work_Log.md`, attendance sheet formatted).
-- Python project is renamed and organized as `Projects/flask_docker_app`.
+- Training notes are present from `Day_01` to `Day_24`.
+- Week 1 to Week 3 mostly use `notes.md`; Day 17 onward includes `work.md`/`README.md` in several folders.
+- Week 4 folders and practice entries are available (`Day_19` to `Day_24`).
+- Admin references are actively maintained (`tools.md`, `Work_Log.md`).
+- Projects currently include:
+  - `Projects/flask_docker_app`
+  - `Projects/Node_project`
 
 ## Completed Milestones
 - Week 1 (`Week_01_Linux_Git`): Linux, CLI, Git/GitLab basics, starter project artifacts.
-- Week 2 (`Week_02_Git_CICD`): CI/CD progression, Docker practice, AWS fundamentals.
-- Week 3 (`Week_03_Docker_AWS`) up to Day 16: EC2 + Apache and AWS deployment practice.
+- Week 2 (`Week_02_Docker_AWS`): Java/Maven, Docker fundamentals, container workflow, AWS intro.
+- Week 3 (`Week_03_AWS_jenkins`): AWS deployment topics plus Jenkins/pipeline start (`Day_17`, `Day_18`).
+- Week 4 (`Week_04_KBs_IaC`) in progress: GitLab/Jenkins revisit, pipelining, Kubernetes, Minikube (`Day_19` to `Day_24`).
 
 ## Active Milestones
-- Week 3 Day 17: pending update.
-- Week 4 (`Week_04_KBs_IaC`): pending structured day-wise notes.
-- Week 5 (`Week_05_Project`): pending final project planning and execution.
+- Standardize `Day_17` to `Day_24` note format (prefer one primary file pattern).
+- Improve consistency of folder naming (remove special characters where possible).
+- Week 5 (`Week_05_Project`): finalize project scope and execution plan.
 
 ## Next Actions
-1. Fill real content for `Day_14`, `Day_15`, and `Day_16` placeholder notes.
-2. Add Day 17 notes and artifacts to close Week 3.
-3. Create day folders and `notes.md` structure for Week 4.
-4. Define Week 5 project scope, architecture, and deliverables.
-5. Push cleaned project and notes in focused commits.
+1. Normalize Week 3/4 entries to a consistent format (`notes.md` or `work.md`, choose one standard).
+2. Add concise summaries for `Day_18` to `Day_24` to match Day 17 style.
+3. Add/clean README for both projects (`flask_docker_app`, `Node_project`) with setup and run commands.
+4. Define Week 5 deliverables: architecture, CI/CD flow, deployment target, and demo checklist.
+5. Commit documentation and project updates in separate focused commits.
 
 ## Git Commit Plan
-1. `Daily_Notes` reorganization and note standardization.
-2. `Projects/flask_docker_app` rename and ignore-rule fixes.
-3. `Admin_&_References` improvements and roadmap updates.
+1. `Daily_Notes`: Week 3/4 note-format standardization and summary improvements.
+2. `Projects`: README and run-instructions updates for Flask and Node projects.
+3. `Admin_&_References` + `ROADMAP.md`: status tracking and planning updates.
