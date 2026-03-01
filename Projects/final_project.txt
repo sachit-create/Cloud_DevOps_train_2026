@@ -1,3 +1,24 @@
-# Final project started
+# Final Project Summary
 
-# Topic : 
+## Topic
+
+Microservice-based cloud deployment.
+
+## Project Flow
+
+- Source control and collaboration through GitHub.
+- Frontend deployment workflow with GitHub Actions (practice reference).
+- Backend deployment on AWS infrastructure.
+- Supporting services and access control through AWS S3 and IAM.
+- CI/CD pipeline practice through Jenkins.
+
+## References
+
+- Source code and README:
+  - https://github.com/sachit-create/CT_final_project_cloudanddevops
+- Live view:
+  - http://35.154.100.145:3000/ (works only while instance is running)
+
+## Outcome
+
+- Final project work aligned with training objectives for cloud deployment, automation, and delivery workflow.

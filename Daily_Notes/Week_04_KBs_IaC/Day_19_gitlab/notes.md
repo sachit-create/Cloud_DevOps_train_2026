@@ -8,7 +8,7 @@
 - Prepared to continue GitLab/Jenkins and pipeline-related practice.
 
 ### Commands / tools
-- N/A
+- Introductory planning session; no specific commands captured.
 
 ### Issues and fixes
 - No specific technical issue recorded for this day.

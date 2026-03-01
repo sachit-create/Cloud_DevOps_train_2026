@@ -1,81 +1,85 @@
 # Work Log
 
-Last Updated: February 24, 2026
+Last Updated: March 1, 2026
 
 ## Objective
 
-Maintain a clear record of what I completed, what is pending, and what to improve in Cloud + DevOps training.
+Track completion status of the full Cloud and DevOps training repository and maintain final readiness for portfolio/review use.
 
 ## Current Status
 
-- `Daily_Notes` organized and renamed consistently for Week 1, Week 2, Week 3.
-- Week notes cleaned so command content is merged into `notes.md`.
-- Project folder improved:
-  - `Projects/python_flask_project` renamed to `Projects/flask_docker_app`
-  - project structure cleaned and ignore rules corrected for GitHub push.
-- Admin references improved:
-  - `tools.md` structured with links, checks, and common fixes.
-  - attendance sheet formatted without changing attendance values.
-- Revalidated repo objective and aligned admin docs to Cloud + DevOps training documentation needs.
+- Training documentation from Week 1 to Week 5 is present and organized.
+- Placeholder day notes were completed in the Week 3 and Week 5 sections.
+- Project documentation is complete for:
+  - `Projects/flask_docker_app`
+  - `Projects/Node_project`
+  - `Projects/final_project.txt`
+- CI/CD reference notes were added in:
+  - `CI_CD/github-actions.md`
+  - `CI_CD/jenkins.md`
+- `Training_Report/` files were removed by request to allow fresh report recreation.
 
 ## Weekly Progress Summary
 
 ### Week 1: Linux + Git Foundations
 
-- Learned Linux basics, CLI practice, Git/GitLab basics, and intro CI/CD flow.
-- Added day-wise notes and basic project artifacts.
+- Linux terminal basics, file operations, CLI, and Git fundamentals completed.
 
-### Week 2: Git + CI/CD + Docker + AWS Intro
+### Week 2: Build + Docker + AWS Intro
 
-- Continued with Docker/container topics and AWS fundamentals.
-- Maintained notes for each day and organized screenshots and day folders.
+- Java/Maven/Gradle concepts, Docker basics, container workflow, and AWS introduction completed.
 
-### Week 3: AWS Deployment Practice
+### Week 3: AWS + Jenkins
 
-- Worked on EC2 + Apache and AWS deployment-related tasks.
-- Notes and folder names normalized for consistency.
+- AWS database, S3, EC2+Apache, and deployment flow documented.
+- Jenkins fundamentals and pipeline structure recorded.
 
-## Active Action Plan
+### Week 4: Pipeline + Kubernetes
 
-- [ ] Push `flask_docker_app` in a clean commit.
-- [ ] Stage and commit notes reorganization in a separate commit.
-- [ ] Fill missing notes for empty days (for example `Day_06_Git_Branching`, `Day_17`).
-- [ ] Add one mini-project README with setup and run steps.
+- GitHub/Jenkins integration, pipeline troubleshooting, Kubernetes concepts, and Minikube setup documented.
 
-## Daily Entry Template
+### Week 5: Project + Terraform
 
-### Date: YYYY-MM-DD
+- Terraform-based S3 provisioning practice recorded.
+- Final project wrap-up and presentation timeline documented.
 
-- Focus:
-- Work completed:
-- Tools/commands used:
-- Issues faced:
-- Fix applied:
-- What to do tomorrow:
+## Action Plan Status
+
+- [x] Standardize and complete day-wise notes where placeholders existed.
+- [x] Add/clean project run instructions.
+- [x] Add CI/CD summary references.
+- [x] Finalize roadmap and admin documentation.
+- [x] Clear training report files for fresh authoring.
 
 ## Recent Daily Entries
+
+### Date: 2026-03-01
+
+- Focus: Repository closure and final documentation pass.
+- Work completed:
+  - Reviewed roadmap alignment.
+  - Completed pending note files and Week 5 entries.
+  - Added CI/CD reference docs and project README files.
+  - Removed tracked dependency artifacts from `Projects/Node_project/node_modules`.
+  - Cleared `Training_Report/` files.
+- Tools/commands used: `find`, `rg`, `sed`, `apply_patch`, `rm -rf`
+- Issues faced: Existing placeholders and mixed note quality across weeks.
+- Fix applied: Normalized pending content and finalized admin/roadmap tracking.
+- What to do tomorrow: Recreate fresh training report content in `Training_Report/`.
 
 ### Date: 2026-02-24
 
 - Focus: Documentation alignment with training repository scope.
-- Work completed: Reviewed `README.md`, `ROADMAP.md`, week/day note folders, and updated admin references so `tools.md` and `Work_Log.md` stay training-centric.
+- Work completed: Reviewed `README.md`, `ROADMAP.md`, week/day note folders, and updated admin references.
 - Tools/commands used: `sed`, `find`, `rg`, `apply_patch`
-- Issues faced: Initial update direction was too generic for this repo purpose.
+- Issues faced: Initial update direction was too generic for repository purpose.
 - Fix applied: Reworked entries to match Cloud + DevOps learning and portfolio tracking.
-- What to do tomorrow: Continue with pending action plan and add one completion entry after each training block.
-
-### Date: 2026-02-22
-
-- Focus: Work tracking and documentation maintenance.
-- Work completed: Updated `Work_Log.md` with the latest status date and added a fresh daily entry section.
-- Tools/commands used: `sed`, `apply_patch`
-- Issues faced: No major blockers.
-- Fix applied: N/A
-- What to do tomorrow: Continue with pending action plan items and update logs after task completion.
+- What to do tomorrow: Continue pending action plan and add completion entry after each training block.
 
 ## Quick Links
 
 - Notes Root: `Daily_Notes/`
 - Projects Root: `Projects/`
+- CI/CD Root: `CI_CD/`
 - Tools Reference: `Admin_&_References/tools.md`
 - Attendance: `Admin_&_References/Attendance_Record.xlsx`

@@ -1,13 +1,21 @@
 ## Day_14_AWS_S3
 
 ### Focus
-- Practice and implementation work for Day_14_AWS_S3.
+- AWS S3 fundamentals and practical usage in deployment workflows.
 
 ### Work done
-- Add your completed tasks here.
+- Covered S3 bucket creation and object storage basics.
+- Reviewed bucket-level access flow and IAM-based permissions at a high level.
+- Understood practical use cases:
+  - static website assets
+  - artifact storage
+  - backup storage
+- Connected S3 learning with CI/CD delivery patterns.
 
 ### Commands / tools
-- Add key commands and tools used.
+- AWS Console
+- S3 service operations (bucket/object level)
+- IAM access review
 
 ### Issues and fixes
-- Add blockers and how you resolved them.
+- No major blocker recorded for this day.

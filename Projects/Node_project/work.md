@@ -26,4 +26,4 @@
 
 ## Notes
 - Application is currently single-route and can be extended with health/API routes.
-- Add `.dockerignore` in next update to reduce build context size.
+- `.dockerignore` added to keep Docker build context clean.

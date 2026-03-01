@@ -1,13 +1,18 @@
 ## Day_15_EC2_Apache
 
 ### Focus
-- Practice and implementation work for Day_15_EC2_Apache.
+- EC2 hosting flow and Apache web server deployment basics.
 
 ### Work done
-- Add your completed tasks here.
+- Reviewed EC2 instance setup required for web hosting.
+- Practiced Apache server setup flow on EC2 environment.
+- Revisited security-group considerations for HTTP access.
+- Validated deployment direction for serving application/static content.
 
 ### Commands / tools
-- Add key commands and tools used.
+- AWS EC2
+- Apache web server setup workflow
+- Linux CLI commands for server checks
 
 ### Issues and fixes
-- Add blockers and how you resolved them.
+- No major blocker recorded for this day.

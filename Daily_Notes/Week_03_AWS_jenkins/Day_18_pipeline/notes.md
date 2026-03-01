@@ -7,7 +7,7 @@
 - No technical work completed due to trainer unavailability.
 
 ### Commands / tools
-- N/A
+- No command execution recorded due session unavailability.
 
 ### Issues and fixes
 - Issue: Trainer session was unavailable.

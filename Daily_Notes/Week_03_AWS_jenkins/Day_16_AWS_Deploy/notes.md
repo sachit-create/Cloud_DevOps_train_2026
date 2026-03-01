@@ -1,13 +1,17 @@
 ## Day_16_AWS_Deploy
 
 ### Focus
-- Practice and implementation work for Day_16_AWS_Deploy.
+- Consolidated AWS deployment understanding across compute, networking, and hosting.
 
 ### Work done
-- Add your completed tasks here.
+- Continued deployment practice for cloud-hosted application flow.
+- Combined prior learnings from EC2, security groups, and server setup.
+- Checked end-to-end direction from infrastructure readiness to service validation.
 
 ### Commands / tools
-- Add key commands and tools used.
+- AWS EC2 console operations
+- Linux terminal for deployment checks
+- Apache/service validation steps
 
 ### Issues and fixes
-- Add blockers and how you resolved them.
+- No major blocker recorded for this day.

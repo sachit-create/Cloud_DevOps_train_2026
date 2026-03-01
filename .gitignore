@@ -1,7 +1,6 @@
 .vscode/
 .idea/
 Projects/Node_project/node_modules/
-Projects/Node_project/package-lock.json
 **/.venv/
 **/myenv/
 **/__pycache__/

@@ -1,3 +1,10 @@
-trainer lefted today waiting for update so
+## Day 18 - Pipeline Follow-up
 
-- no work today
+### Session Status
+
+- Trainer was unavailable, so no hands-on implementation was performed.
+
+### Planned Continuation
+
+- Resume pipeline practice in next session.
+- Continue with Jenkins job configuration and stage validation.
