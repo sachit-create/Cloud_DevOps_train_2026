@@ -1,8 +1,38 @@
-.vscode/
-.idea/
-Projects/Node_project/node_modules/
-**/.venv/
-**/myenv/
-**/__pycache__/
-*.pyc
-Training_Report
+# Repository Guide
+
+This document helps you understand how to read and use the Cloud & DevOps training repository efficiently.
+
+## How to Navigate the Repo
+
+### Start Here
+- `README.md` — project overview and quick orientation
+- `ROADMAP.md` — timeline and training milestones
+
+### Learn by Topic
+- `Daily_Notes/` — daily learning journey and progress
+- `CI_CD/` — Jenkins and GitHub Actions notes
+- `Admin_&_References/` — tools, work log, and attendance
+
+### Practice by Project
+- `Projects/flask_docker_app/` — Dockerized Flask application
+- `Projects/Node_project/` — Dockerized Node.js application
+- `Projects/final_project.txt` — final project summary and related notes
+
+## Recommended Order
+
+1. Read `ROADMAP.md`
+2. Review `Daily_Notes/`
+3. Study `CI_CD/`
+4. Inspect `Projects/`
+5. Check `Admin_&_References/`
+
+## Best Use Cases
+
+- Refresher before interviews
+- Revision of learning concepts
+- Portfolio documentation
+- Tracking progress across the training cycle
+
+## Key idea
+
+This repo is a training archive, so the most important thing is clarity and readability. The structure is designed to make it easy for both the owner and others to understand the learning path without confusion.
